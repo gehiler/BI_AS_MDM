@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "BI_AS_MDM", "BI_AS_MDM\BI_AS_MDM.dwproj", "{8D340C27-5C93-493E-8099-DF7A7E892D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D340C27-5C93-493E-8099-DF7A7E892D34}.Development|Default.ActiveCfg = Development
+		{8D340C27-5C93-493E-8099-DF7A7E892D34}.Development|Default.Build.0 = Development
+		{8D340C27-5C93-493E-8099-DF7A7E892D34}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D39F73-85CD-4337-AA8A-3A660793463E}
+	EndGlobalSection
+EndGlobal
